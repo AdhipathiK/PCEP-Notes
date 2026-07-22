@@ -1,4 +1,4 @@
-# PCEP™ – Certified Entry-Level Python Programmer (PCEP-30-02)
+# PCEP – Certified Entry-Level Python Programmer (PCEP-30-02)
 
 This repository contains my personal study notes and Jupyter notebook that I used to prepare for the **PCEP™ – Certified Entry-Level Python Programmer (PCEP-30-02)** certification.
 
